@@ -1,0 +1,22 @@
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+Pro:ital,wght@0,600;0,700;0,900;1,700&display=swap');
+
+
+*{
+    
+    font-family: 'Bebas Neue', sans-serif;
+    }
+body{
+    background-color: #c1e1c3 ;
+}
+ .content-table{
+     margin: 5px 0;
+     font-size: 30px; 
+     width: 100%;
+     height: 100%;
+      border-radius: 5px 5px 0 0; 
+      overflow: hidden; 
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); 
+      color: white;
+      }
+
+   
